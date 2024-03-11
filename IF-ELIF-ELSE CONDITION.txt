@@ -1,0 +1,14 @@
+IF-ELIF-ELSE CONDITION:
+example:
+relation between two  numbers
+
+a=int(input("enter a valude:"))
+b=int(input("enter b value:"))
+if(a==b):
+   print("both are equal")
+elif(a>b):
+   print("a is grather than b")
+else:
+print("a is less than b")
+
+
